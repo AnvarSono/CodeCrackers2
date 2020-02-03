@@ -5,7 +5,7 @@ public class crackers {
         System.out.println("What's up world!");
         System.out.println("Cybertek");
         System.out.println("Iryna's code");
-        System.out.println("Norbert");
+        System.out.println("Type something");
 
     }
 }
